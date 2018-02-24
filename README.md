@@ -8,5 +8,5 @@ This is the course project for the Getting and Cleaning Data Coursera course (We
 3) Assigns descriptive variable names to the datasets. 
 4) Merges the test and training satasets
 5) Extracts only the measurements on the mean and standard deviation for each measurement. Creates a subset of this data. 
-6) Adds Acticity Names to the subset of data. 
+6) Adds Activity Names to the subset of data. 
 7) Creates/writes the tidy dataset

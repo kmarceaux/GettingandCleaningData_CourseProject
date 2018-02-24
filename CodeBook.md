@@ -1,5 +1,5 @@
 ## This file is the code book for the dataset Tidy_dataset.txt
-* The original code book is part of the zip file with the datasets.  featires_info.txt
+* The original code book is part of the zip file with the datasets.  features_info.txt
 
 ### Attributes
 * SubjectId = Test subject ID
